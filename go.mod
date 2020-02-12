@@ -1,4 +1,4 @@
-module github.com/sensedia/health-go
+module github.com/Sensedia/health-go
 
 go 1.13
 
