@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hellofresh/health-go/checks/http"
+	"github.com/sensedia/health-go/checks/http"
 	"github.com/stretchr/testify/require"
 )
 
